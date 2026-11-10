@@ -2,6 +2,12 @@
 
 I'm **Esteban**, a **Full-Stack Developer** passionate about solving complex problems and building impactful software. Welcome to my GitHub profile!
 
+### Hire Desk by Seb this week
+**[Desk by Seb](https://www.almondmom.online/desk#book)** — written admin for San Diego salons, clinics, shops, and trades.  
+**Entry $79.99/mo** · **Premium $997/mo** (first month **$797** when you book a kickoff this month) · email kickoff, no phone required day-to-day.
+
+→ **[Book a 15-min kickoff](https://www.almondmom.online/desk#book)** · [esteban64lemus@gmail.com](mailto:esteban64lemus@gmail.com?subject=Desk%20by%20Seb%20%E2%80%94%2015-min%20kickoff)
+
 ---
 
 ## About Me
@@ -26,12 +32,13 @@ Fun fact: I can read **200 words per minute**, so documentation and technical bl
 
 ## Featured Projects
 
+- **[Desk by Seb](https://www.almondmom.online/desk)** — Admin desk for San Diego local businesses · **[book kickoff](https://www.almondmom.online/desk#book)**
 - **[Almond Mom Kitchen](https://www.almondmom.online)** — Elite AI kitchen companion for seed oil free, clean-label family cooking ([repo](https://github.com/esteban64lemus-cmd/almond-mom-kitchen))
   - [Mission](https://www.almondmom.online/mission)
   - [Recipes](https://www.almondmom.online/blog)
   - [Zaya Health Journal](https://www.almondmom.online/journal)
+  - [Welcome](https://www.almondmom.online/welcome)
 - **[Portfolio](https://esteban.almondmom.online)** — Personal hub on the Almond Mom domain
-- **[Desk by Seb](https://www.almondmom.online/desk)** — Admin desk for San Diego local businesses
 - **Tiny House Project** — Documentation and resources from building my own tiny house
 
 ---
@@ -56,8 +63,10 @@ Fun fact: I can read **200 words per minute**, so documentation and technical bl
 
 ## Connect With Me
 
+- **Desk by Seb (hire)**: [www.almondmom.online/desk](https://www.almondmom.online/desk#book)
 - **Portfolio**: [esteban.almondmom.online](https://esteban.almondmom.online)
 - **Almond Mom**: [www.almondmom.online](https://www.almondmom.online)
+- **Email**: [esteban64lemus@gmail.com](mailto:esteban64lemus@gmail.com?subject=Desk%20by%20Seb%20%E2%80%94%2015-min%20kickoff)
 - **LinkedIn**: [Esteban J Lemus](https://linkedin.com/in/esteban-j-lemus)
 - **Instagram**: [@a_bagel_hater](https://instagram.com/a_bagel_hater)
 
@@ -65,6 +74,7 @@ Fun fact: I can read **200 words per minute**, so documentation and technical bl
 
 ## What I'm Looking For
 
+- **San Diego local businesses** ready to offload inbox, follow-ups, and reviews via [Desk by Seb](https://www.almondmom.online/desk#book)
 - Exciting full-stack projects to collaborate on
 - Opportunities to solve complex technical challenges
 - Connections with developers and builders
@@ -80,4 +90,4 @@ Fun fact: I can read **200 words per minute**, so documentation and technical bl
 
 ---
 
-**Thanks for stopping by!** Explore the repos, try [Almond Mom](https://www.almondmom.online), and reach out if you want to collaborate.
+**Thanks for stopping by!** Hire [Desk by Seb](https://www.almondmom.online/desk#book), explore [Almond Mom](https://www.almondmom.online), and reach out if you want to collaborate.
